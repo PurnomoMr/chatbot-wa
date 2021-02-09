@@ -1,0 +1,33 @@
+{
+    "page_no": 1,
+    "no_per_page": 20,
+
+    "env_production": "production",
+    "env_development": "development",
+    
+    "today": "TODAY",
+    "yesterday": "YESTERDAY",
+
+    "new": "NEW",
+    "cases": "CASES",
+    "deaths": "DEATHS",
+    "recovered": "RECOVERED",
+    "cases_total": "CASES TOTAL",
+    "deaths_total": "DEATHS TOTAL",
+    "recovered_total": "RECOVERED TOTAL",
+    "new_cases_total": "NEW CASES TOTAL",
+    "new_deaths_total": "NEW DEATHS TOTAL",
+    "new_recovered_total": "NEW RECOVERED TOTAL",
+    "cases_total_today": "CASES TOTAL TODAY",
+    "deaths_total_today": "DEATHS TOTALTODAY",
+    "recovered_total_today": "RECOVERED TOTAL TODAY",
+    "cases_today": "CASES TODAY",
+    "deaths_today": "DEATHS TODAY",
+    "recovered_today": "RECOVERED TODAY",
+    "country": "COUNTRY",
+    "new_cases": "NEW CASES",
+    "new_deaths": "NEW DEATHS",
+    "new_recovered": "NEW RECOVERED",
+
+    "total": "TOTAL"
+}

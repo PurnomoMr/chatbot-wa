@@ -1,0 +1,7 @@
+[
+    {"success": "Success"},
+    {"auth001": "Your Authentication not valid!"},
+    {"auth001": "The Body Request not valid!"},
+
+    {"msg001": "We can not search more than 2 actions. Please try another action"}
+]

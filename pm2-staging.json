@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+          "name": "chatbot-wa",
+          "script": "server.js",
+          "instances": 2,
+          "instance_var": "INSTANCE_ID",
+          "exec_mode": "cluster"
+        },
+        {
+            "name": "cron-check-summary",
+            "cwd": "./cronjob",
+            "script": "covid19_summary01.js"
+        }
+    ]
+  }

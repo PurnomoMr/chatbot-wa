@@ -1,0 +1,8 @@
+.env
+config/config.json
+node_modules
+logs/*
+pid/*
+~/*
+.vscode/*
+.vscode/settings.json
