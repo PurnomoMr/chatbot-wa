@@ -1,0 +1,38 @@
+{
+    "development": {
+        "username": "test",
+        "password": "test",
+        "database": "pandemic",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "production",
+        "password": "production",
+        "database": "pandemic",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "memcached": {
+        "host": "localhost",
+        "port": "11211"
+    },
+    "twilio": {
+        "auth": {
+            "account_sid": "",
+            "key": ""
+        },
+        "webhook": {
+            "authentication": ""
+        }
+    },
+    "covid19": {
+        "url": "",
+        "auth": {
+            "Email":"", 
+            "Subscription":"",
+            "key": "",
+            "access_token": ""
+        }
+    }
+}
